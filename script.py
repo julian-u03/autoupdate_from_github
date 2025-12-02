@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 import os
 
-date = datetime.strptime("2025-12-01", "%Y-%m-%d")
+date = datetime.strptime("2025-12-02", "%Y-%m-%d")
 
 owner = "julian-u03"
 repo = "autoupdate_from_github"
