@@ -3,6 +3,8 @@ import re
 from datetime import datetime
 import os
 
+print("Test")
+
 date = datetime.strptime("2025-12-02", "%Y-%m-%d")
 
 owner = "julian-u03"
